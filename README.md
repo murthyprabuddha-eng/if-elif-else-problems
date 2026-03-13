@@ -38,4 +38,16 @@ elif num2>num1:
 else:
     print("both numbers are equal")
     
-
+#4
+age=int(input("enter age: "))
+if age>=80:
+    print(" super senior")
+elif age<80 and age>=60:
+    print("senior")
+elif age<60 and age>=24:
+    print(" Working professionals")
+elif age<24 and age>=10:
+    print(" student")
+else:
+    print("children")
+    

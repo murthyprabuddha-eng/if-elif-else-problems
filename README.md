@@ -47,7 +47,7 @@ elif age<80 and age>=60:
 elif age<60 and age>=24:
     print(" Working professionals")
 elif age<24 and age>=10:
-    print(" student")
+    print("student")
 else:
     print("children")
     

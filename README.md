@@ -1,4 +1,4 @@
-# if-elif-else-problems
+#if-elif-else-problems
 #1.even or odd
 integer=int(input("enter a number: "))
 
